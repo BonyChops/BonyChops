@@ -1,4 +1,4 @@
-# Bony_Chops
+# Bony_Chops / Sota Suzuki
 A Student in NNCT4J.
 
 - [YouTube](https://www.youtube.com/BonyChops)
