@@ -1,5 +1,5 @@
 # Bony_Chops / Sota Suzuki
-A Student in NNCT18J(5J).
+A Student at NNCT18J(5J).
 
 - **[bonychops.com](https://bonychops.com)**
 - [YouTube](https://www.youtube.com/channel/UCVtSxqezSf8yJb0LGFplpIw)
