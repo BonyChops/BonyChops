@@ -1,5 +1,5 @@
 # Bony_Chops / Sota Suzuki
-A Student at NNCT18J(5J).
+A Klis21 Student at The University of Tsukuba.
 
 - **[bonychops.com](https://bonychops.com)**
 - [YouTube](https://www.youtube.com/channel/UCVtSxqezSf8yJb0LGFplpIw)
