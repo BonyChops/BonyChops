@@ -1,4 +1,4 @@
-# Bony_Chops
+# BonyChops
 A Klis21 Student at The University of Tsukuba.
 
 - **[bonychops.com](https://bonychops.com)**
