@@ -1,5 +1,5 @@
 # BonyChops
-A Klis21 Student at The University of Tsukuba.
+Web Developer.
 
 - **[bonychops.com](https://bonychops.com)**
 - [YouTube](https://www.youtube.com/channel/UCVtSxqezSf8yJb0LGFplpIw)
